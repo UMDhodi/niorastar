@@ -11,7 +11,7 @@ const BookingCalendar = () => {
 
         <div className="booking-calendar-wrapper">
           <iframe
-            src="https://cal.com/niora-star-q8wr6w/30min"
+            src="https://cal.com/niora-star-q8wr6w/meeting-schedule"
             width="100%"
             height="800"
             frameBorder="0"
