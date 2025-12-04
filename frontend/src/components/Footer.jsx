@@ -19,16 +19,13 @@ const Footer = () => {
               Strategy-led design agency that helps businesses unlock revenue through conversion-optimized experiences.
             </p>
             <div className="footer-social">
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Instagram">
+              <a href="https://www.instagram.com/niora.star/" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="Instagram">
                 <Instagram size={20} />
               </a>
-              <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="social-link" aria-label="YouTube">
-                <Youtube size={20} />
-              </a>
-              <a href="mailto:hello@niorastar.com" className="social-link" aria-label="Email">
+              <a href="mailto:niorastar45@gmail.com" className="social-link" aria-label="Email">
                 <Mail size={20} />
               </a>
-              <a href="tel:+1234567890" className="social-link" aria-label="Phone">
+              <a href="tel:+918053386902" className="social-link" aria-label="Phone">
                 <Phone size={20} />
               </a>
             </div>
@@ -56,8 +53,8 @@ const Footer = () => {
           <div className="footer-links">
             <h4 className="footer-heading">Contact</h4>
             <ul className="footer-menu">
-              <li><a href="mailto:hello@niorastar.com" className="footer-link">hello@niorastar.com</a></li>
-              <li><a href="tel:+1234567890" className="footer-link">+1 (234) 567-890</a></li>
+              <li><a href="mailto:niorastar45@gmail.com" className="footer-link">niorastar45@gmail.com</a></li>
+              <li><a href="tel:+918053386902" className="footer-link">+91 80533 86902</a></li>
               <li><button onClick={() => scrollToSection('booking')} className="footer-link">Book a Call</button></li>
             </ul>
           </div>

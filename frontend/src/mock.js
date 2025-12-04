@@ -68,8 +68,8 @@ export const mockData = {
   features: [
     {
       id: 1,
-      title: 'Unlimited Revisions',
-      description: 'We work until you are 100% satisfied. Your success is our priority, and we will refine every detail until it is perfect.',
+      title: 'Revision Support Provided',
+      description: 'We refine every detail to ensure your complete satisfaction because your success deserves nothing less',
       icon: 'RefreshCw'
     },
     {
@@ -90,21 +90,21 @@ export const mockData = {
   testimonials: [
     {
       id: 1,
-      name: 'Sarah Mitchell',
-      role: 'CEO',
-      company: 'TechFlow',
+      name: 'Aman',
+      role: 'Owner',
+      company: 'Glam n Glow',
       rating: 5,
       text: 'Niora Star transformed our online presence completely. Our conversion rate doubled within the first month. Absolutely worth every penny.',
-      avatar: 'SM'
+      avatar: 'AM'
     },
     {
       id: 2,
-      name: 'James Peterson',
+      name: 'Hitesh',
       role: 'Founder',
-      company: 'GrowthLabs',
+      company: 'Tech Daddy',
       rating: 5,
       text: 'The team at Niora Star delivered beyond our expectations. Professional, fast, and the results speak for themselves. Highly recommend!',
-      avatar: 'JP'
+      avatar: 'HT'
     },
     {
       id: 3,
@@ -118,7 +118,7 @@ export const mockData = {
     {
       id: 4,
       name: 'Michael Chen',
-      role: 'CEO',
+      role: 'Owner',
       company: 'InnovateNow',
       rating: 5,
       text: 'The ROI from our new website has been incredible. Niora Star knows how to build experiences that convert visitors into paying customers.',
@@ -127,7 +127,7 @@ export const mockData = {
     {
       id: 5,
       name: 'Lisa Anderson',
-      role: 'Founder',
+      role: 'Freelancer',
       company: 'CreativeCo',
       rating: 5,
       text: 'From logo design to full website, Niora Star handled everything with professionalism. They are our go-to agency for all design needs.',
@@ -135,7 +135,7 @@ export const mockData = {
     },
     {
       id: 6,
-      name: 'David Kumar',
+      name: 'Virender Kumar',
       role: 'CEO',
       company: 'NextGen Media',
       rating: 5,
@@ -149,7 +149,7 @@ export const mockData = {
     {
       id: 1,
       title: 'Digital Marketing',
-      price: '$899',
+      price: '$499',
       period: '/month',
       description: 'Complete digital marketing strategy and execution',
       features: [
@@ -165,7 +165,7 @@ export const mockData = {
     {
       id: 2,
       title: 'Product Photography',
-      price: '$599',
+      price: '$299',
       period: '/session',
       description: 'Professional product shoots that drive sales',
       features: [
@@ -181,7 +181,7 @@ export const mockData = {
     {
       id: 3,
       title: 'Website Design',
-      price: '$2,999',
+      price: '$1,999',
       period: '/project',
       description: 'Custom websites that convert visitors to customers',
       features: [
@@ -197,7 +197,7 @@ export const mockData = {
     {
       id: 4,
       title: 'Logo Design',
-      price: '$399',
+      price: '$199',
       period: '/project',
       description: 'Brand identity that commands attention',
       features: [
@@ -218,7 +218,7 @@ export const mockData = {
       description: 'Engaging animations for YouTube and social media',
       features: [
         'Custom Animations',
-        'Up to 60 Seconds',
+        'Multiple graphics',
         'HD Quality',
         'Music & Sound Effects',
         'Multiple Revisions',

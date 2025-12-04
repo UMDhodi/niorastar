@@ -14,10 +14,10 @@ const CTA = () => {
       <div className="cta-container">
         <div className="cta-content">
           <h2 className="cta-headline">
-            Ready to stop leaving money on the table?
+            It’s time to turn missed opportunities into measurable growth.
           </h2>
           <p className="cta-subtext">
-            Let's fix the issues that are costing your business revenue.
+            We identify and eliminate the gaps that quietly drain your revenue.
           </p>
           <Button onClick={scrollToBooking} className="btn-primary btn-large">
             Book a Strategy Call

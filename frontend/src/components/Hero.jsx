@@ -15,11 +15,11 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <h1 className="hero-headline">
-            We help businesses unlock more revenue with strategy-led websites.
+            Empowering brands with end-to-end solutions that drive growth and innovation.
           </h1>
           
           <p className="hero-subheadline">
-            Your website should print money, not collect dust. We build conversion-focused experiences that turn visitors into customers in weeks, not months.
+            We build strategic digital foundations that accelerate growth, not slow it down.
           </p>
 
           <div className="hero-cta">
@@ -29,7 +29,7 @@ const Hero = () => {
           </div>
 
           <div className="hero-trust">
-            <p className="trust-text">Trusted by 30+ brands, agencies & founders</p>
+            <p className="trust-text">Trusted by 10+ brands, agencies & founders</p>
             <div className="brand-logos">
               {mockData.brandLogos.map((brand) => (
                 <div key={brand.id} className="brand-logo">
